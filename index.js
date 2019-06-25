@@ -38,3 +38,15 @@ net.createServer(function(socket){
     })
     
 }).listen(PORT, HOST)
+
+
+//Investigar conexion close de socket en node js y agregarlo
+//Crear un cliente en node js y conectarlo al servidor
+//Responder del servidor al cliente
+//decodificar los mensajes que llegan al servidor a texto
+//Imprimir lista de clientes conectados  y cuando alguien se desconecte, eliminarlo de la lista de clientes conectados
+// e imprimir nuevamente la lista de conectados.
+
+// Para preparar su proyecto
+//Instalar nodemon a su proyecto
+//agrearlo gitignore
